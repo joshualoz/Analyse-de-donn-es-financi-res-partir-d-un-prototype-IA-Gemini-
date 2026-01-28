@@ -35,7 +35,7 @@ Un système de trading algorithmique autonome intégrant l'IA **Grok** pour l'an
 
 * **Lancer le Bot :**
     ```bash
-    python main.py
+    python entrainement_bot.py
     ```
 * **Lancer le Dashboard :**
     ```bash
